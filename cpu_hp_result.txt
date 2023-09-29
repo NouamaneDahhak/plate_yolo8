@@ -1,0 +1,30 @@
+(9).jpg: TOTAL TIME: 5728.66 ms | model_plate time :4780.00| model_plate_ocr time :944.00| no plate detected
+(8).jpg: TOTAL TIME: 3548.39 ms | model_plate time :1937.01| model_plate_ocr time :1604.39| no plate detected
+(7).jpg: TOTAL TIME: 4916.83 ms | model_plate time :2857.18| model_plate_ocr time :2056.65| no plate detected
+(6).jpg: TOTAL TIME: 2958.35 ms | model_plate time :1870.98| model_plate_ocr time :1079.00| RESULT: 94889B1
+(5).jpg: TOTAL TIME: 2888.78 ms | model_plate time :1915.00| model_plate_ocr time :969.40| no plate detected
+(4).jpg: TOTAL TIME: 3102.11 ms | model_plate time :2309.12| model_plate_ocr time :788.00| RESULT: 39600B40
+(30).jpg: TOTAL TIME: 1926.00 ms | model_plate time :1351.72| model_plate_ocr time :570.00| no plate detected
+(3).jpg: TOTAL TIME: 2336.00 ms | model_plate time :1341.02| model_plate_ocr time :992.57| RESULT: 31494A40
+(29).jpg: TOTAL TIME: 2329.00 ms | model_plate time :1788.00| model_plate_ocr time :536.97| no plate detected
+(28).jpg: TOTAL TIME: 1802.00 ms | model_plate time :1331.00| model_plate_ocr time :468.00| RESULT: 56560A72
+(27).jpg: TOTAL TIME: 2402.99 ms | model_plate time :1295.74| model_plate_ocr time :1104.45| RESULT: 51333A59
+(26).jpg: TOTAL TIME: 2615.71 ms | model_plate time :1816.90| model_plate_ocr time :792.70| no plate detected
+(25).jpg: TOTAL TIME: 2313.06 ms | model_plate time :1864.26| model_plate_ocr time :444.80| no plate detected
+(24).jpg: TOTAL TIME: 1853.94 ms | model_plate time :1267.00| model_plate_ocr time :582.70| no plate detected
+(23).jpg: TOTAL TIME: 1551.00 ms | model_plate time :1192.00| model_plate_ocr time :356.00| no plate detected
+(22).jpg: TOTAL TIME: 1668.13 ms | model_plate time :1257.02| model_plate_ocr time :406.14| RESULT: 42937A7
+(21).jpg: TOTAL TIME: 1509.87 ms | model_plate time :1200.85| model_plate_ocr time :305.98| no plate detected
+(20).jpg: TOTAL TIME: 1939.07 ms | model_plate time :1502.01| model_plate_ocr time :435.07| RESULT: 77777B40
+(2).jpg: TOTAL TIME: 2304.93 ms | model_plate time :1357.01| model_plate_ocr time :945.00| no plate detected
+(19).jpg: TOTAL TIME: 2366.00 ms | model_plate time :1614.36| model_plate_ocr time :746.00| no plate detected
+(18).jpg: TOTAL TIME: 2010.99 ms | model_plate time :1453.00| model_plate_ocr time :550.44| no plate detected
+(17).jpg: TOTAL TIME: 1730.00 ms | model_plate time :1177.00| model_plate_ocr time :550.00| RESULT: 1930A75
+(16).jpg: TOTAL TIME: 2064.21 ms | model_plate time :1763.95| model_plate_ocr time :297.25| RESULT: 94502A7
+(15).jpg: TOTAL TIME: 1634.80 ms | model_plate time :1240.00| model_plate_ocr time :390.99| no plate detected
+(14).jpg: TOTAL TIME: 1772.95 ms | model_plate time :1158.15| model_plate_ocr time :611.07| no plate detected
+(13).jpg: TOTAL TIME: 1746.00 ms | model_plate time :1158.00| model_plate_ocr time :583.99| no plate detected
+(12).jpg: TOTAL TIME: 2050.00 ms | model_plate time :1159.14| model_plate_ocr time :888.14| RESULT: 3337A21
+(11).jpg: TOTAL TIME: 3655.33 ms | model_plate time :2018.48| model_plate_ocr time :1632.60| RESULT: 11487B40
+(10).jpg: TOTAL TIME: 2196.78 ms | model_plate time :1540.98| model_plate_ocr time :649.05| RESULT: 36936A44
+(1).jpg: TOTAL TIME: 1915.95 ms | model_plate time :1233.00| model_plate_ocr time :679.32| RESULT: 63108B40
